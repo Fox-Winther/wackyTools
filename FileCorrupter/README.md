@@ -1,4 +1,4 @@
-This wacky tool provides a corrupt file withthe name, extension and size you desire.
+This WackyTool (c) provides a corrupt file with the name, extension and size you desire.
 
 Instructions:
   Just don't mess up on the terminal input. 
