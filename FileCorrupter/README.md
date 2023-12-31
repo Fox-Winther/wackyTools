@@ -1,8 +1,10 @@
-This WackyTool (c) provides a corrupt file with the name, extension and size you desire.
+This WackyTool provides a file corrupter script that generates a gibberish code file with the name, extension and size you desire.
 
-Instructions:
-  Just don't mess up on the terminal input. 
+Three versions where made: The first two that runs in the terminal; And the third, a GUI made in Tkinter.
 
-Two versions where made: the first one, that runs in the terminal; And the second one, that features a cutting edge tech never seen before: A GUI made in Tkinter. basicaly it has a window intead of just text.
+# Instructions:
+  fileCorrupter.py => run the script via the terminal and follow the on-screen instructions
+  fileCorrupterPT.py => same as the original, but in portuguese for my irmãos e irmãs
+  fileCorrupterVa2.py => (GUI VERSION) type the values onto the fields and click "CORRUPT!"
 
 Finished in 24/06/2022
